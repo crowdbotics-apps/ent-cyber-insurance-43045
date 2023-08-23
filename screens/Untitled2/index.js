@@ -259,7 +259,9 @@ const Untitled2 = () => {
         <ImageBackground style={styles.NEucUfpp} source={{
         uri: "https://assets-global.website-files.com/5b5cd6b75bb9b0dce50e212f/5cc08480f9312f082b3bc204_brand-line.png"
       }} resizeMode="cover"></ImageBackground>
-        <Text style={styles.Gotham}>{"Crowdbotics Cyber Insurance Platform"}</Text>
+        <Text style={styles.Gotham}>
+          {"Crowdbotics Cyber Insurance Platform"}
+        </Text>
         <View style={styles.wrapper}>
           <View style={styles.col1}>
             <View style={styles.head}>
@@ -378,7 +380,7 @@ const styles = StyleSheet.create({
     height: 1
   },
   NEucUfpp: {
-    width: 750,
+    width: 742,
     height: 100
   },
   rightHand: {

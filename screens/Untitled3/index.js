@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#0C0D1C"
   },
   NEucUfpp: {
-    width: 750,
+    width: 742,
     height: 100,
     margin: 20
   },

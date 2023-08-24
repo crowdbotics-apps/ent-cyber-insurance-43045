@@ -391,7 +391,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     padding: 20,
     top: 17,
-    left: 1103
+    left: 1200
   },
   kjCnRHKk: {
     textAlign: "center",

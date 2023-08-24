@@ -176,8 +176,8 @@ const styles = StyleSheet.create({
     borderRadius: 0,
     color: "#fff",
     position: "absolute",
-    top: 18,
-    left: 24,
+    top: 20.5,
+    left: 21.5,
     fontWeight: "700"
   }
 });

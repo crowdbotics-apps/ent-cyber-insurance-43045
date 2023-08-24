@@ -75,8 +75,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#0C0D1C"
   },
   NEucUfpp: {
-    width: 742,
-    height: 100,
+    width: 400,
+    height: 54,
     margin: 20
   },
   subHeader: {
@@ -165,7 +165,8 @@ const styles = StyleSheet.create({
     color: "#777777",
     marginTop: 40,
     position: "absolute",
-    left: 1200
+    left: 1200,
+    top: 0
   },
   DlAbSArN: {
     width: 162,
@@ -175,8 +176,8 @@ const styles = StyleSheet.create({
     borderRadius: 0,
     color: "#fff",
     position: "absolute",
-    top: 20.5,
-    left: 21.5,
+    top: 18,
+    left: 24,
     fontWeight: "700"
   }
 });

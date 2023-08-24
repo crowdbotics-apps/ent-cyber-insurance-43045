@@ -319,8 +319,8 @@ const styles = StyleSheet.create({
     color: "#fff",
     fontHeight: 32,
     lineHeight: 51,
-    fontSize: 34,
-    marginTop: 10,
+    fontSize: 23,
+    marginTop: 50,
     marginBottom: 10
   },
   boxSmall: {
@@ -380,8 +380,8 @@ const styles = StyleSheet.create({
     height: 1
   },
   NEucUfpp: {
-    width: 742,
-    height: 100
+    width: 400,
+    height: 54
   },
   rightHand: {
     borderRadius: 15,
@@ -390,13 +390,13 @@ const styles = StyleSheet.create({
     borderColor: "#fff",
     position: "absolute",
     padding: 20,
-    top: 50,
-    left: 1100
+    top: 17,
+    left: 1103
   },
   kjCnRHKk: {
     textAlign: "center",
     fontWeight: "bold",
-    fontSize: 32
+    fontSize: 20
   }
 });
 export default Untitled2;

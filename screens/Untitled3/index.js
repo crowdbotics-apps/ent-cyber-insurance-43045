@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   NEucUfpp: {
     width: 400,
     height: 54,
-    margin: 20
+    marginBottom: 20
   },
   subHeader: {
     width: "70%",
@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontHeight: 32,
     lineHeight: 51,
-    fontSize: 32,
+    fontSize: 23,
     margin: 10
   },
   grid: {
